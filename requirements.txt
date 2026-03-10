@@ -1,0 +1,9 @@
+python-telegram-bot
+streamlit
+openai
+pandas
+python-dotenv
+fastapi
+pydantic
+uvicorn[standard]
+PyPDF2
